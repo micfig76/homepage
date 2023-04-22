@@ -1,0 +1,50 @@
+.Naglowek {
+    color: #4e4647;
+    background-color: rgb(164 191 200 / 78%);
+    background-position: 100%;
+    border-radius: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+.NaglowekPomocniczy {
+    color: #e2d8d9;
+    background-color: rgba(66, 75, 78, 0.78);
+    background-position: 100%;
+}
+.NaglowekPomocniczy1 {
+    color: #e2d8d9;
+    background-color: rgba(66, 75, 78, 0.78);
+    background-position: 100%;
+    margin-right: 50%;
+    margin-left: 10%;
+}
+
+.ciekawyElement {
+    color: hsl(218, 82%, 52%);
+}
+
+.bigbox {
+   border-color: brown;
+margin-left: 20%;
+margin-right: 20%;
+}
+.box1 {
+    margin-right: 50%;
+    margin-left: 10%;
+}
+
+.box2 {
+    color: rgb(54, 54, 170);
+    margin-left: 20%;
+}
+p {
+    text-align: center;
+}
+
+img{
+    border-radius: 50%;
+    margin-left: 10%;
+    margin-right: auto;
+}
