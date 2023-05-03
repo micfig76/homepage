@@ -3,6 +3,7 @@ Welcome to my homepage!
 https://micfig76.github.io/homepage/
 
 ![Michal](images/mojezdjecie.jpg)
+
 Author's picture:
 
 This is my first homepage which was established to welcome everyone intrested in finding out what I am about to do in the future and how did I get here.
