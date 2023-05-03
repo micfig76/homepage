@@ -2,6 +2,9 @@
 Welcome to my homepage! 
 https://micfig76.github.io/homepage/
 
+![Michal](images/mojezdjecie.jpg)
+Author's picture:
+
 This is my first homepage which was established to welcome everyone intrested in finding out what I am about to do in the future and how did I get here.
 
 
@@ -13,8 +16,7 @@ You sure know that the content is not editable but if you do have something you 
 
 Here are some of the features you can expect to find on my homepage:
 
-Author's picture:
-![Michal](images/mojezdjecie.jpg)
+
 
 Early life
 Education
