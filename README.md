@@ -7,6 +7,7 @@ Author's picture:
 ![Michal](images/mojezdjecie.jpg)
 
 
+In general
 
 This is my first homepage which was established to welcome everyone intrested in finding out what I am about to do in the future and how did I get here.
 
