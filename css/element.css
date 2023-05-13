@@ -1,0 +1,5 @@
+.element {
+    overflow: auto;
+    background-image: url("../images/landscape.jpg");
+    object-fit: cover;
+}
