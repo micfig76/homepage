@@ -1,5 +1,15 @@
-.element {
+.themeButton {
+    border: solid rgb(95, 91, 95);
+    border-radius: 50em;
+}
+
+.themeButton--background {
+    background-color: #4e4647;
+    border-radius: 50em;
+}
+
+.body--background {
     overflow: auto;
-    background-image: url("../images/landscape.jpg");
+    background-image: url("../images/dessert.jpg");
     object-fit: cover;
 }

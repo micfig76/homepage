@@ -1,9 +1,20 @@
-console.log("Cześć!");
-let NaglowekPomocniczy = document.querySelector(".NaglowekPomocniczy");
-let przycisk = document.querySelector(".przycisk");
+{
+    const themeButton = document.querySelector(".js-themeButton");
 
-przycisk.addEventListener("click", () => {
-    NaglowekPomocniczy.remove();
-});
+    const toggleTheme = () => {
+        const body = document.querySelector(".js-body");
+        const themeName = document.querySelector(".js-themeName");
 
-console.log(przycisk);
+        themeButton.classList.toggle("themeButton--background");
+        body.classList.toggle("body--background");
+        themeName.innerText = body.classList.contains("body--background") ? "no " : "picture in the ";
+    };
+
+    const init = () => {
+        themeButton.addEventListener("click", toggleTheme);
+
+        welcome();
+    }
+    init();
+
+}
